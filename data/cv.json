@@ -1,0 +1,62 @@
+{
+  "name": "Wasif Sarker",
+  "bio": "Currently studying Manufacturing Engineering at University of British Columbia",
+  "experience": [
+    {
+      "title": "Office Move Pro",
+      "name": "Mover",
+      "from": "2019-06",
+      "to": "2019-09",
+      "location": "Richmond, BC,Canada",
+      "description": "Work in teams of 2-3 to move office supplies throughout the lower Mainland",
+      "avatar": "./logos/cryptoledge.png"
+    },
+    {
+      "title": "8 Rinks",
+      "name": "Scorekeeper",
+      "from": "2014-02",
+      "to": "2020-09",
+      "location": "Burnaby, BC, Canada",
+      "description": "Worked as Scorekeeper and i uploaded the data from games into the online database",
+      "avatar": "./assets/Profile.png"
+    }
+  ],
+  "education": [
+    {
+      "name": "Bachelor of Applied Science, Manufacturing Engineer",
+      "title": "University of British Columbia",
+      "from": "2023",
+      "to": "2019",
+      "location": "Vancouver British Columbia, Canada",
+      "avatar": "./logos/ubc.jpg"
+    },
+    {
+      "name": "High School Diploma",
+      "title": "New Westminster Secondary School",
+      "from": "2019",
+      "to": "2015",
+      "location": "New Westminster, British Columbia, Canada",
+      "avatar": "./logos/spectrum.jpg"
+    }
+  ],
+  "volunteer": [
+    {
+      "name": "Tutor",
+      "title": "Kumon Learning Centre",
+      "from": "2017-09",
+      "to": "2018-09",
+      "location": "Richmond, BC, Canada",
+      "description": "I taught a variety of kids from ages 8-16 and marked their assignments"
+    }
+  ],
+  "Clubs": [
+    {
+      "name": "General Team Member",
+      "title": "UBC Concrete Canoe",
+      "from": "2019-09",
+      "to": "Present",
+      "location": "Vancouver, BC, Canada",
+      "description": "I worked with a variety of sub teams to Help design and build the canoe"
+    }
+  ]
+}
